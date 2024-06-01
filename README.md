@@ -3,7 +3,7 @@
 
 ---
 
-|COL|ID|
+|제목|내용|
 |:--|:--|
 |🚻 `ENV`|<img src="https://img.shields.io/badge/Unreal-C71D23?style=for-the-badge&logo=UnrealEngine&logoColor=white"> <img src="https://img.shields.io/badge/c++-C71D23?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/blueprint-C71D23?style=for-the-badge&logo=blueprint&logoColor=white">|
 |👎 `API`|<img src="https://img.shields.io/badge/OpenGL-FE5F50?style=for-the-badge&logo=OpenGL&logoColor=white"> <img src="https://img.shields.io/badge/SFML-FE5F50?style=for-the-badge&logo=SFML&logoColor=white"> <img src="https://img.shields.io/badge/FMOD-FE5F50?style=for-the-badge&logo=FMOD&logoColor=white">|
