@@ -1,4 +1,5 @@
-### 강사소개
+
+### 👨‍🦱 강사소개
 |`제목`|`내용`|
 |:--|:--|
 |이름|김경석|
@@ -8,17 +9,20 @@
 |연락처|010-7587-6244|
 ||someddk@sgaedu.co.kr|
 
-### 수업자료
+
+### 📊 수업자료
 - 네이버 카페 : https://cafe.naver.com/sgagamedev/
 - 깃허브 : https://github.com/simeddk
 - 원드라이브 : https://1drv.ms/f/s!AhpZMtxRTDdhhOEuOPlDaRXa5M7TgA?e=wNK2Ib
 
-### 수업환경
+
+### 💻 수업환경
 - UE 4.25
 - VisualStudio 2019
 - Mac은 참아줘....
 
-### 커리큘럼
+
+### 🧮 커리큘럼
 `1. SideScroll`
 - Gameplay Framework : UE의 주요 클래스 구조 & 사용 용도
 - Basical GameLogic : 스테이지별 게임 흐름
@@ -59,17 +63,20 @@
 - DX Resource Framework : 렌더링 데이터의 vRam 입출력
 - Graphics Programming : HLSL, FX 등 쉐이더를 활용한 화면 효과 및 최적화
 
-### 가입할 사이트
+
+### :accessibility: 가입할 사이트
 - 에픽게임즈 : https://www.unrealengine.com/ko?sessionInvalidated=true
 - 믹사모 : https://www.mixamo.com/#/
 - 깃허브 : https://github.com/
 - 스팀웍스 : https://partner.steamgames.com/
 
-### 여러분의 마인드셋
+
+### 🐤 여러분의 마인드셋
 - 공부를 할 때 나의 최대의 적은 무엇인가?
 - 취업에서 절대 벼락치기가 안되는 것은?
 - 중꺾마
 - 패기를 두르고 있는가?
 
-### 학습의 목표와 방점
+
+### 🐐 학습의 목표와 방점
 - 기술 문서는 내 친구
