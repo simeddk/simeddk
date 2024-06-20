@@ -25,7 +25,7 @@
 ### 🧮 커리큘럼
 `1. SideScroll`
 - Gameplay Framework : UE의 주요 클래스 구조 & 사용 용도
-- Basical GameLogic : 스테이지별 게임 흐름
+- Basical GameLogic : 기본적인 게임 로직
   
 `2. ThirdPersonBP`
 - Multiple Weapon/Skill System : Is-A 기반의 다수의 무기와 스킬 취급
