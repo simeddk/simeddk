@@ -51,7 +51,7 @@
 - PostProcess : 쉐이더를 활용한 각종 화면 효과
 - Optimization : LOD, 컬링 등 최적화 기법
 
-`8. Pluein`
+`8. Plugin`
 - Module Framework : 라이브러리 관리 시스템
 - Static Object Management : UE 에디터 객체 접근 연구
 
